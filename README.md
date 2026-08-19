@@ -22,5 +22,5 @@ If you use the materials provided in this repository, please cite:
 BARBOSA, Giovanna Soneghete; POLEZE, Livia Maria Bianchi; OLIVEIRA, Kyssyanne Samihra Santos. **Avaliação do desempenho de técnicas de aprendizado de máquina aplicadas à identificação de variáveis atmosféricas preditoras de ondas de calor marinhas na porção sudoeste do Atlântico Sul**. In: CONGRESSO BRASILEIRO DE OCEANOGRAFIA, 9., 2026, Vitória.
 
 **Author:** Giovanna Soneghete Barbosa  
-**Affiliation:** Federal University of Espírito Santo (UFES)  
-**Year:** 2026
+**Affiliation:** Universidade Federal do Espírito Santo (UFES)
+**Laboratory:** Laboratório de Estudos do Sistema Atmosfera-Continente-Oceano (ESOLAB)
