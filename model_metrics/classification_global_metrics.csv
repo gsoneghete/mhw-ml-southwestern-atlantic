@@ -1,0 +1,9 @@
+﻿Metric,Decision Tree,LightGBM
+Accuracy,0.7343,0.3334
+95% Confidence Interval - Lower,0.7339,0.333
+95% Confidence Interval - Upper,0.7347,0.3338
+No Information Rate (NIR),0.6935,0.6935
+p-value (Accuracy > NIR),< 2.2e-16,1.0
+Cohen's Kappa,0.3407,-4e-05
+McNemar's Test,< 2.2e-16,0.0
+MCC,0.3447,-5.26e-05

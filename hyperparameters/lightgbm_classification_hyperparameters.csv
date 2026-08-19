@@ -1,0 +1,8 @@
+﻿parameter,value,description
+objective,multiclass,multiclass classification
+metric,multi_logloss,logarithmic loss (log-loss)
+learning_rate,0.1,model learning rate
+num_leaves,255,maximum number of leaves in each tree
+feature_fraction,1,fraction of features used in each iteration
+min_data_in_leaf,50,minimum number of observations in each leaf
+seed,42,Random seed

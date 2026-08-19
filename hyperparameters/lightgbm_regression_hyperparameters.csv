@@ -1,0 +1,11 @@
+﻿parameter,value,description
+objective,tweedie,regression with tweedie distribution
+tweedie_variance_power,1.2,variance power of the tweedie distribution
+metric,rmse,root mean squared error
+learning_rate,0.008,model learning rate
+num_leaves,255,maximum number of leaves in each tree
+feature_fraction,0.9,fraction of features used in each iteration
+bagging_fraction,0.8,fraction of data used in each iteration
+bagging_freq,5,sampling frequency (every 5 iterations)
+min_data_in_leaf,20,minimum number of observations in each leaf
+seed,42,random seed

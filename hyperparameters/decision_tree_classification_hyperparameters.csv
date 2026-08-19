@@ -1,0 +1,3 @@
+﻿parameter,value,description
+tuneLength,10,tests different tree complexity values and performs pruning to avoid overfitting
+weights,"w (S_E = 1, Mo = 1.5, Fo = 2)",assigns greater importance to minority classes to compensate for class imbalance
